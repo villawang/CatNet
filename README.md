@@ -1,2 +1,2 @@
-# CatNet
-CatNet: Class Incremental 3D ConvNets for Lifelong Egocentric Gesture Recognition
+# CatNet: Class Incremental 3D ConvNets for Lifelong Egocentric Gesture Recognition
+
