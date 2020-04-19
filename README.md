@@ -15,4 +15,16 @@ opencv-python-headless\
 pandas\
 scikit-image
 # Usage
-First to use the create_annotation.py file to create annotation for the EgoGesture dataset.
+## Create annotation files for EgoGesture
+  ```
+  Change the frame_path and label_path to your own path in the create_annotation.py
+  python3 create_annotation.py
+  EgoGesture dataset folder structure
+  |
+  |-frames
+  |–--Subject01
+  |--- ......
+  |-labels
+  |---Subject01
+  |--- .....
+  ```
