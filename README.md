@@ -14,7 +14,7 @@ matplotlib\
 opencv-python-headless\
 pandas\
 scikit-image
-# Usage
+## Usage
 * Create annotation files for EgoGesture
   ```
   Change the frame_path and label_path to your own path in the create_annotation.py
@@ -28,3 +28,6 @@ scikit-image
   |---Subject01
   |--- .....
   ```
+  
+## Acknowledgement
+We thank Kensho Hara for releasing [3D-ResNets-PyTorch Repo](https://github.com/kenshohara/3D-ResNets-PyTorch) and Okan Köpüklü for releasing [Real-time-GesRec Repo](https://github.com/ahmetgunduz/Real-time-GesRec), which we build our work based on their work. 
