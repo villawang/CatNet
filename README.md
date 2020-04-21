@@ -1,5 +1,5 @@
 # CatNet
-Implementation of our paper CatNet: Class Incremental 3D ConvNets for Lifelong Egocentric Gesture Recognition
+Implementation of our paper [CatNet: Class Incremental 3D ConvNets for Lifelong Egocentric Gesture Recognition](https://arxiv.org/abs/2004.09215)
 ## Requirements
 Docker file is provided in the CatNet.Dockerfile. \
 Python3\
